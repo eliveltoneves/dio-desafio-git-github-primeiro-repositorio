@@ -1,0 +1,25 @@
+Amnotações sobre o curso
+
+O que é GIT
+
+Git é o sistema de controle de versão open source mais usado no mundo atualmente! Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho.
+
+Pra que serve o Git e Github
+
+Enquanto o Git é um software, o GitHub é uma plataforma onde você pode subir seus projetos, criar seu portfólio e compartilhá-lo com o mundo. O GitHub funciona usando o Git “por de baixo dos panos” para que devs possam desenvolver e atualizar os seus projetos sozinhos ou de forma colaborativa com outros devs.
+
+Conceito de Branch.
+
+É um galho da árvore de desenvolvimento. É uma cópia do código derivado de um certo ponto do trunk que é utilizado para a aplicação de mudanças no código, preservando a integridade do código no trunk.
+
+Para que serve o branch github?
+
+O comando git branch permite criar, listar, renomear e excluir ramificações. Ele não permite alternar entre as ramificações ou reunir um histórico bifurcado de novo. Por esse motivo, o comando git branch é muito integrado com os comandos git checkout e git merge .
+
+O que é commit?
+
+Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando git commit para capturar o estado de um projeto naquele momento.
+
+Em ciência da computação e gerenciamento de dados, um commit é a realização de um conjunto de mudanças provisórias permanentes, marcando o fim de uma transação e proporcionando durabilidade às transações ACID.
+
+
